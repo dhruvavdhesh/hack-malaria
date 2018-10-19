@@ -1,1 +1,1 @@
-# hack-malaria
+# Hack Malaria
